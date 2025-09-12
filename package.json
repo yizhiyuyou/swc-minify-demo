@@ -1,0 +1,14 @@
+{
+  "name": "swc-minify-demo",
+  "version": "1.0.0",
+  "description": "swc-minify demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@swc/core": "^1.13.5"
+  }
+}
