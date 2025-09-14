@@ -11,7 +11,7 @@ async function minify() {
                   mallId: mallId,
                 })
             } catch (e) {
-                onClose?.();
+                console.log(e)
             }
         }
 
